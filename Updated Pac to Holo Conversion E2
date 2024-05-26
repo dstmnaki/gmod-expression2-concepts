@@ -1,6 +1,6 @@
 @name Holo Model Loader by Naki
 @persist [HT CT Bones]:table [SpawnStatus CoreStatus]:string [HN CN I SpawnCounter] DeparentUs:array
-#Original concept by Shadowscion
+#Original pac to holo code by Shadowscion
 #Thanks to them for creating the base code
 
 if(dupefinished()){reset()}
